@@ -2,7 +2,7 @@
 
 
 
-# Strategi for rekruttering og sammensetning
+## Strategi for rekruttering og sammensetning
 
 Gruppen burde være sammensatt av flere ulike personer for å få et bredt mangfold og dekke alle oppgaver (gjennomføring, struktur, nye ideer og miljøbygging). Gjerne velg folk som også har noen felles verdier eller bakgrunn, slik at de trygges på hverandre raskere. Det er lettere å jobbe sammen hvis man er trygg på hverandre og har blitt litt kjent, så å bygge tillit tidlig er svært avgjørende. Tillit blir vanligvis definert som en psykologisk tilstand der mennesker som er avhengig av hverandre, stoler på hverandre mer (Jacobsen, 2016, s.85). Denne definisjonen kan tyde på at prosjektets sjanse for å lykke øker, hvis gruppen har tillit til hverandre. Tillit kan å bidra til at man er mindre redd for å prøve å feile. Uten å prøve og feile kommer ikke innovasjonen til å gå like raskt fremover (Kontochristos , 2023). Det er også viktig at personene er litt ulike så flere synspunkter kan komme frem. Det er mange fordeler med homogene team. Består en gruppe av ulike personer vil det naturligvis føre til ulike ideer både med tanke på løsninger og problemer. Derfor vil det være til fordel av at grupper er sammensatt av ulike rolle (Jacobsen, 2016, 33).  
 
@@ -109,15 +109,17 @@ Han opprettholder den åpne kommunikasjonen, men trer inn som mekler og kommer f
 Ved valg av tiltak underveis må Erling kontinuerlig vurdere hvordan håndteringen påvirker gruppens produksjon og hvordan den påvirker gruppens sosiale samhold. (Jacobsen, 2016, s.69)  
 Erling må unngå å havne i “Strategi 4” (reaktiv unngåelse, ad hoc-løsninger rettet mot enkeltpersoner uten analyse), da dette eskalerer konflikter og gir både lav effektivitet og lav tilfredshet (Jacobsen, 2016, s.69). 
 
-## Strategi for rekruttering og sammensetning
+## Håndtering av tidspress og "planleggingsfellen":  
 
-Gruppen burde være sammensatt av flere ulike personer for å få et bredt mangfold og dekke alle oppgaver (gjennomføring, struktur, nye ideer og miljøbygging). Gjerne velg folk som også har noen felles verdier eller bakgrunn, slik at de trygges på hverandre raskere. Det er lettere å jobbe sammen hvis man er trygg på hverandre og har blitt litt kjent, så å bygge tillit tidlig er svært avgjørende. Tillit blir vanligvis definert som en psykologisk tilstand der mennesker som er avhengig av hverandre, stoler på hverandre mer (Jacobsen, 2016, s.85). Denne definisjonen kan tyde på at prosjektets sjanse for å lykke øker, hvis gruppen har tillit til hverandre. Tillit kan å bidra til at man er mindre redd for å prøve å feile. Uten å prøve og feile kommer ikke innovasjonen til å gå like raskt fremover (Kontochristos , 2023). Det er også viktig at personene er litt ulike så flere synspunkter kan komme frem. Det er mange fordeler med homogene team. Består en gruppe av ulike personer vil det naturligvis føre til ulike ideer både med tanke på løsninger og problemer. Derfor vil det være til fordel av at grupper er sammensatt av ulike rolle (Jacobsen, 2016, 33).
+ 
 
-Det finnes fire sentrale roller en gruppe burde bestå av. Disse er: produksjon, administrasjon, integrasjon og entreprenørskap (Jacobsen, 2016, s.33).
+Erling har 15 måneder på å lage og lansere portalen, derfor er det viktig å bruke tiden godt. Gruppen bør ikke starte arbeidet med en gang uten å først forstå oppgaven og hva innbyggerne trenger. Hvis gruppen begynner å jobbe for raskt uten å ha en god forståelse av problemet, kan de bruke mye tid på ting som senere må gjøres på nytt (Jacobsen, 2016, s. 45–47). 
 
-Produksjon er gode fagpersoner som er flink på å ferdigstille det de har startet på (Jacobsen, 2016, s. 33). Fagpersoner er mindre sosial enn andre, men er veldig interessert i å jobbe med oppgaven og bli ferdig (Jacobsen, 2016, s. 33). Administrasjon er strukturerte mennesker og har oversikt over oppgaven. I en administrasjon sørger mennesker for system, orden og forutsigbarhet (Jacobsen, 2016, s. 33). Folkene i integrasjon er sosiale og passer på at relasjonene i gruppa fungerer godt, de er flinke på å inkludere alle i gruppa og sørger for at gruppa henger sammen som en sosial enhet (Jacobsen, 2016, s. 33). Entreprenørskap er personer som tenker nytt og stiller kritiske spørsmål, disse menneskene får gruppen til å stoppe opp og reflektere. (Jacobsen, 2016, s. 33).
+De kan bruke SMART-mål for å lage gode mål. Målene bør være tydelige, målbare, realistiske, aksepterte og tidsbegrensede. Dette gjør det lettere for gruppen å vite hva de skal oppnå, og hvordan de kan se om målene er nådd. Planleggingsfellen betyr at man ofte tror at arbeidet vil ta kortere tid enn det egentlig gjør. Dette kan føre til at man undervurderer hvor mye tid og ressurser prosjeket trenger (Flyvbjerg, 2021). For å unngå dette bør Erling dele prosjektet inn i mindre oppgaver og sette frister for hver oppgave. Det er også viktig å følge med på tiden underveis. Hvis en oppgave tar lengre tid enn planlagt, bør gruppen kunne endre planen. 
 
-Mennesker fra de fire rollene er viktig å ha med i prosjektet så gruppen fungerer godt. En gruppe som har for eksempel bare to av de rollene vil ikke fungere like godt som en gruppe med alle fire forskjellige rollene.
+Målene kan også endres underveis dersom prosjektet får nye behov eller utfordringer. Det er derfor viktig at gruppen har en plan, men samtidig er fleksibel. Regelmessige møter kan brukes til å se på hva som er gjort, hva som skal gjøres videre og om det har oppstått problemer. På denne måten kan Erling oppdage utfordringer tidlig og gjøre nødvendige endringer (Jacobsen, 2016, s. 46–47). 
+
+Uenigheter er normalt når personer har forskjellig   bakgrunn. Erling bør sørge for at gruppemedlemmene snakker sammen og prøver å finne gode løsninger. Hvis de ikke klarer å bli enige, kan Erling hjelpe med å ta en beslutning (Jacobsen, 2016, s. 57) 
 
 ## Sikring av god kommunikasjon 
 
@@ -143,6 +145,7 @@ Flyvbjerg, B. (2021). Top Ten Behavioral Biases in Project Management: An Overvi
 
 
 
+
 # Egenevaluering av gruppekontrakt/samarbeid: 
 
 Det ble etablert tidspunkter på de dagene som gruppen skulle møtte opp. Vi har hatt god kommunikasjon mellom oss. Og bruker aktivt kommunikasjons kanalene vi har blitt enige om. Hvis noen ikke kan møte opp til avtalt tid er vi alle gode til å kommunisere dette. Da jobber vedkommende ofte hjemme med tildelt oppgave eller fortsetter på noe vi som gruppe jobber med. Vi har også etablert forståelse med tanke på hvor all kommunikasjon skal formidles, som er Discord. Hver gang vi har møtt opp, så har vi gått gjennom oppgaven sammen, delt opp oppgaven mellom gruppe medlemmene, og hjulpet hverandre gjennom prosessen med å gjennomføre oppgaven. Vi ser på hverandres individuelle arbeid og gir hverandre tilbakemeldinger. Hvis det er en i gruppen som ikke forstår helt hva som skal gjøres eller hva oppgaven innebærer, så tar vi oss tid til å se på dette for å danne en god og felles forståelse på hva oppgaven spør etter og innhold vi ønsker å produsere, hva som skal gjøres, og hvordan vi skal gjennomføre oppgaven. 
@@ -158,4 +161,3 @@ Hva som defineres som “vage” er spekulativt, i kontrakten kan det være ulik
 Et råd er å lage en gruppekontakt med klare og enkle regler. Vi bør være enige om når vi skal møtes, hvordan vi skal kommuniser og hvem som har ansvar for de forskjellige oppgavene. Vi har også lært at god kommunikasjon er viktig. Hvis noe har problemer med en oppgave, bør de si fra slik resten av gruppen kan hjelpe.       
 
 Det er viktig å ha med at man er ærlig om ambisjoner og om når man ikke er helt i topp form. Eventuelt andre personlige årsaker som gjør at man ikke psykisk eller fysisk tilstede. 
-
