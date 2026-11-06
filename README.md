@@ -109,6 +109,13 @@ Han opprettholder den åpne kommunikasjonen, men trer inn som mekler og kommer f
 Ved valg av tiltak underveis må Erling kontinuerlig vurdere hvordan håndteringen påvirker gruppens produksjon og hvordan den påvirker gruppens sosiale samhold. (Jacobsen, 2016, s.69)  
 Erling må unngå å havne i “Strategi 4” (reaktiv unngåelse, ad hoc-løsninger rettet mot enkeltpersoner uten analyse), da dette eskalerer konflikter og gir både lav effektivitet og lav tilfredshet (Jacobsen, 2016, s.69). 
 
+## Håndtering av tidspress og "planleggingsfellen"
+
+Erling har 15 måneder på å lage og lansere portalen, derfor er det viktig å bruke tiden godt. Gruppen bør ikke starte arbeidet med en gang uten å først forstå oppgaven og hva innbyggerne trenger. Hvis gruppen begynner å jobbe for raskt uten å ha en god forståelse av problemet, kan de bruke mye tid på ting som senere må gjøres på nytt (Jacobsen, 2016, s. 45–47).
+De kan bruke SMART-mål for å lage gode mål. Målene bør være tydelige, målbare, realistiske, aksepterte og tidsbegrensede. Dette gjør det lettere for gruppen å vite hva de skal oppnå, og hvordan de kan se om målene er nådd. Planleggingsfellen betyr at man ofte tror at arbeidet vil ta kortere tid enn det egentlig gjør. Dette kan føre til at man undervurderer hvor mye tid og ressurser prosjeket trenger (Flyvbjerg, 2021). For å unngå dette bør Erling dele prosjektet inn i mindre oppgaver og sette frister for hver oppgave. Det er også viktig å følge med på tiden underveis. Hvis en oppgave tar lengre tid enn planlagt, bør gruppen kunne endre planen.
+Målene kan også endres underveis dersom prosjektet får nye behov eller utfordringer. Det er derfor viktig at gruppen har en plan, men samtidig er fleksibel. Regelmessige møter kan brukes til å se på hva som er gjort, hva som skal gjøres videre og om det har oppstått problemer. På denne måten kan Erling oppdage utfordringer tidlig og gjøre nødvendige endringer (Jacobsen, 2016, s. 46–47).
+Uenigheter er normalt når personer har forskjellig   bakgrunn. Erling bør sørge for at gruppemedlemmene snakker sammen og prøver å finne gode løsninger. Hvis de ikke klarer å bli enige, kan Erling hjelpe med å ta en beslutning (Jacobsen, 2016, s. 57)
+
 
 ## Sikring av god kommunikasjon 
 
