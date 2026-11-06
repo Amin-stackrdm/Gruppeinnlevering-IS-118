@@ -2,7 +2,7 @@
 
 
 
-## Strategi for rekruttering og sammensetning
+# Strategi for rekruttering og sammensetning
 
 Gruppen burde være sammensatt av flere ulike personer for å få et bredt mangfold og dekke alle oppgaver (gjennomføring, struktur, nye ideer og miljøbygging). Gjerne velg folk som også har noen felles verdier eller bakgrunn, slik at de trygges på hverandre raskere. Det er lettere å jobbe sammen hvis man er trygg på hverandre og har blitt litt kjent, så å bygge tillit tidlig er svært avgjørende. Tillit blir vanligvis definert som en psykologisk tilstand der mennesker som er avhengig av hverandre, stoler på hverandre mer (Jacobsen, 2016, s.85). Denne definisjonen kan tyde på at prosjektets sjanse for å lykke øker, hvis gruppen har tillit til hverandre. Tillit kan å bidra til at man er mindre redd for å prøve å feile. Uten å prøve og feile kommer ikke innovasjonen til å gå like raskt fremover (Kontochristos , 2023). Det er også viktig at personene er litt ulike så flere synspunkter kan komme frem. Det er mange fordeler med homogene team. Består en gruppe av ulike personer vil det naturligvis føre til ulike ideer både med tanke på løsninger og problemer. Derfor vil det være til fordel av at grupper er sammensatt av ulike rolle (Jacobsen, 2016, 33).  
 
@@ -143,7 +143,6 @@ Flyvbjerg, B. (2021). Top Ten Behavioral Biases in Project Management: An Overvi
 
 
 
-
 # Egenevaluering av gruppekontrakt/samarbeid: 
 
 Det ble etablert tidspunkter på de dagene som gruppen skulle møtte opp. Vi har hatt god kommunikasjon mellom oss. Og bruker aktivt kommunikasjons kanalene vi har blitt enige om. Hvis noen ikke kan møte opp til avtalt tid er vi alle gode til å kommunisere dette. Da jobber vedkommende ofte hjemme med tildelt oppgave eller fortsetter på noe vi som gruppe jobber med. Vi har også etablert forståelse med tanke på hvor all kommunikasjon skal formidles, som er Discord. Hver gang vi har møtt opp, så har vi gått gjennom oppgaven sammen, delt opp oppgaven mellom gruppe medlemmene, og hjulpet hverandre gjennom prosessen med å gjennomføre oppgaven. Vi ser på hverandres individuelle arbeid og gir hverandre tilbakemeldinger. Hvis det er en i gruppen som ikke forstår helt hva som skal gjøres eller hva oppgaven innebærer, så tar vi oss tid til å se på dette for å danne en god og felles forståelse på hva oppgaven spør etter og innhold vi ønsker å produsere, hva som skal gjøres, og hvordan vi skal gjennomføre oppgaven. 
@@ -159,3 +158,4 @@ Hva som defineres som “vage” er spekulativt, i kontrakten kan det være ulik
 Et råd er å lage en gruppekontakt med klare og enkle regler. Vi bør være enige om når vi skal møtes, hvordan vi skal kommuniser og hvem som har ansvar for de forskjellige oppgavene. Vi har også lært at god kommunikasjon er viktig. Hvis noe har problemer med en oppgave, bør de si fra slik resten av gruppen kan hjelpe.       
 
 Det er viktig å ha med at man er ærlig om ambisjoner og om når man ikke er helt i topp form. Eventuelt andre personlige årsaker som gjør at man ikke psykisk eller fysisk tilstede. 
+
